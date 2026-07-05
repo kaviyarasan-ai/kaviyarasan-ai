@@ -1,16 +1,9 @@
+<div align="center">
 <img width="400" height="225" alt="WhatsApp Video 2026-07-05 at 3 21 36 PM" src="https://github.com/user-attachments/assets/493f7f40-b3c7-442b-9aa0-cf018ac1561f" />
 
 
-
-
-
-
-
-
-
-
-
 # Hi there 👋 I'm Kaviyarasan
+</div>
 
 <div align="center">
 
