@@ -1,6 +1,4 @@
-https://github.com/user-attachments/assets/b0562c7c-683f-4f00-9d9f-91c992ca57bd
-
-
+<img width="400" height="225" alt="WhatsApp Video 2026-07-05 at 3 21 36 PM" src="https://github.com/user-attachments/assets/493f7f40-b3c7-442b-9aa0-cf018ac1561f" />
 ## Hi there am kaviyarasan ai engineer👋
 
 <!--
